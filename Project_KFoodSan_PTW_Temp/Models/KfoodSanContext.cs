@@ -17,6 +17,8 @@ public partial class KfoodSanContext : DbContext
 
     public virtual DbSet<Category> Categories { get; set; }
 
+    public virtual DbSet<Country> Countries { get; set; }
+
     public virtual DbSet<Food> Foods { get; set; }
 
     public virtual DbSet<OptionFood> OptionFoods { get; set; }
@@ -46,6 +48,14 @@ public partial class KfoodSanContext : DbContext
             entity.Property(e => e.Img)
                 .HasMaxLength(200)
                 .HasColumnName("img");
+        });
+
+        modelBuilder.Entity<Country>(entity =>
+        {
+            entity.ToTable("Country");
+
+            entity.Property(e => e.Id).HasColumnName("id");
+            entity.Property(e => e.CountryName).HasMaxLength(200);
         });
 
         modelBuilder.Entity<Food>(entity =>
@@ -92,17 +102,19 @@ public partial class KfoodSanContext : DbContext
             entity.ToTable("Order_Book");
 
             entity.Property(e => e.Id).HasColumnName("id");
+            entity.Property(e => e.Address).HasMaxLength(200);
+            entity.Property(e => e.CountryId).HasColumnName("CountryID");
             entity.Property(e => e.Note)
                 .HasMaxLength(200)
                 .HasColumnName("note");
-            entity.Property(e => e.Num)
-                .HasMaxLength(10)
-                .IsFixedLength()
-                .HasColumnName("num");
             entity.Property(e => e.ReceivedAt).HasColumnName("received_at");
             entity.Property(e => e.Status).HasColumnName("status");
             entity.Property(e => e.Total).HasColumnName("total");
             entity.Property(e => e.UserId).HasColumnName("UserID");
+
+            entity.HasOne(d => d.Country).WithMany(p => p.OrderBooks)
+                .HasForeignKey(d => d.CountryId)
+                .HasConstraintName("FK_Order_Book_Country");
 
             entity.HasOne(d => d.User).WithMany(p => p.OrderBooks)
                 .HasForeignKey(d => d.UserId)
@@ -125,7 +137,7 @@ public partial class KfoodSanContext : DbContext
 
             entity.HasOne(d => d.OrderBook).WithMany(p => p.OrderDetails)
                 .HasForeignKey(d => d.OrderBookId)
-                .HasConstraintName("FK_Order_Details_Order_Book1");
+                .HasConstraintName("FK_Order_Details_Order_Book");
         });
 
         modelBuilder.Entity<Role>(entity =>

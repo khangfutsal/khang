@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "URXRuTMN8vLcyriG/P+U9cmoHdnsolxBMxWlf9HbQgbOrdm1aYpqiyl60gtaGImlczcwd9RdWgkl1tq4SeUiKQ==",
+  "dgSpecHash": "f9+oCQQMg5L1bfhkxFvTONia35qBfO2rnGb9NzqX8YoCBhSyeE3r8xEMe8mG2969IStkhLZDSFtGuUvkt1l9ig==",
   "success": true,
-  "projectFilePath": "D:\\phat trien web\\Project_KFoodSan_PTW_Temp\\Project_KFoodSan_PTW_Temp\\Project_KFoodSan_PTW_Temp.csproj",
+  "projectFilePath": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\Project_KFoodSan_PTW_Temp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
