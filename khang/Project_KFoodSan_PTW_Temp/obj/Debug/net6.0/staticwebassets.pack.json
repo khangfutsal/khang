@@ -1,0 +1,2381 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Project_KFoodSan_PTW_Temp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Project_KFoodSan_PTW_Temp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatar-1.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatar-2.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatar-3.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatar-4.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatar-5.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\bitbucket.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\bitbucket.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\card-img-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\card-img-1.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\card-img-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\card-img-2.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\card-img-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\card-img-3.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\card-img.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\card-img.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\down-arrow.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\down-arrow.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\drag-indicator.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\drag-indicator.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\dribbble.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dribbble.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\dropbox.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dropbox.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\eco-product-img-1.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\eco-product-img-1.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\eco-product-img-2.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\eco-product-img-2.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\eco-product-img-3.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\eco-product-img-3.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\eco-product-img-4.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\eco-product-img-4.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\eco-slider-img-1.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\eco-slider-img-1.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\eco-slider-img-2.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\eco-slider-img-2.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\eco-slider-img-3.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\eco-slider-img-3.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\error-img.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\error-img.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\github.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\github.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\loader.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\loader.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\mail_chimp.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\mail_chimp.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\product-pic-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\product-pic-2.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\product-pic-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\product-pic-3.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\product-pic-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\product-pic-4.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\product-pic.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\product-pic.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\slack.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\slack.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\images\\switch.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\switch.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\libs\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\libs\\css\\style.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\libs\\js\\dashboard-ecommerce.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\libs\\js\\dashboard-ecommerce.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\libs\\js\\dashboard-finance.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\libs\\js\\dashboard-finance.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\libs\\js\\dashboard-influencer.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\libs\\js\\dashboard-influencer.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\libs\\js\\dashboard-sales.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\libs\\js\\dashboard-sales.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\libs\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\libs\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\libs\\js\\google_map.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\libs\\js\\google_map.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\libs\\js\\jvectormap.custom.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\libs\\js\\jvectormap.custom.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\libs\\js\\main-js.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\libs\\js\\main-js.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\bootstrap-colorpicker\\@claviska\\jquery-minicolors\\jquery.minicolors.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-colorpicker\\@claviska\\jquery-minicolors\\jquery.minicolors.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\bootstrap-colorpicker\\@claviska\\jquery-minicolors\\jquery.minicolors.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-colorpicker\\@claviska\\jquery-minicolors\\jquery.minicolors.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\bootstrap-colorpicker\\@claviska\\jquery-minicolors\\jquery.minicolors.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-colorpicker\\@claviska\\jquery-minicolors\\jquery.minicolors.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\bootstrap-colorpicker\\jquery-asColorPicker\\dist\\jquery-asColorPicker.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-colorpicker\\jquery-asColorPicker\\dist\\jquery-asColorPicker.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\bootstrap-colorpicker\\jquery-asColor\\dist\\jquery-asColor.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-colorpicker\\jquery-asColor\\dist\\jquery-asColor.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\bootstrap-colorpicker\\jquery-asGradient\\dist\\jquery-asGradient.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-colorpicker\\jquery-asGradient\\dist\\jquery-asGradient.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\bootstrap-select\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-select\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\bootstrap-select\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap-select\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\c3charts\\C3chartjs.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\c3charts\\C3chartjs.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\c3charts\\c3.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\c3charts\\c3.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\c3charts\\c3.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\c3charts\\c3.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\c3charts\\d3-5.4.0.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\c3charts\\d3-5.4.0.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\chartist-bundle\\Chartistjs.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\chartist-bundle\\Chartistjs.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\chartist-bundle\\chartist-plugin-threshold.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\chartist-bundle\\chartist-plugin-threshold.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\chartist-bundle\\chartist.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\chartist-bundle\\chartist.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\chartist-bundle\\chartist.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\chartist-bundle\\chartist.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\charts-bundle\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\charts-bundle\\Chart.bundle.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\charts-bundle\\chartjs.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\charts-bundle\\chartjs.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\morris-bundle\\Morrisjs.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\morris-bundle\\Morrisjs.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\morris-bundle\\morris.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\morris-bundle\\morris.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\morris-bundle\\morris.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\morris-bundle\\morris.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\morris-bundle\\morrisjs.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\morris-bundle\\morrisjs.html"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\morris-bundle\\raphael.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\morris-bundle\\raphael.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\sparkline\\jquery.sparkline.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\sparkline\\jquery.sparkline.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\charts\\sparkline\\spark-js.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\charts\\sparkline\\spark-js.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\cropper\\dist\\cropper-int.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\cropper\\dist\\cropper-int.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\cropper\\dist\\cropper.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\cropper\\dist\\cropper.min.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\cropper\\dist\\cropper.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\cropper\\dist\\cropper.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\custom-js\\jquery.multi-select.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\custom-js\\jquery.multi-select.html"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\datatables\\css\\buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\datatables\\css\\buttons.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\datatables\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\datatables\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\datatables\\css\\fixedHeader.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\datatables\\css\\fixedHeader.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\datatables\\css\\select.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\datatables\\css\\select.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\datatables\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\datatables\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\datatables\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\datatables\\js\\data-table.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\datatables\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\datatables\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\datepicker\\datepicker.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\datepicker\\datepicker.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\datepicker\\moment.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\datepicker\\moment.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\datepicker\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\datepicker\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\datepicker\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\datepicker\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-Black.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-Black.woff"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-BlackItalic.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-BlackItalic.woff"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-Bold.woff"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-BoldItalic.woff"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-Book.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-Book.woff"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-BookItalic.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-BookItalic.woff"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-Medium.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-Medium.woff"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-MediumItalic.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\CircularStd-MediumItalic.woff"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\circular-std\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\circular-std\\style.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flag-icon.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flag-icon.min.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ad.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ad.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ae.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ae.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\af.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\af.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ag.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ag.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ai.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ai.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\al.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\al.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\am.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\am.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ao.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ao.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\aq.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\aq.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ar.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ar.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\as.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\as.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\at.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\at.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\au.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\au.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\aw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\aw.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ax.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ax.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\az.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\az.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ba.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ba.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bb.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bb.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bd.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bd.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\be.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\be.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bf.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bg.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bh.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bi.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bi.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bj.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bj.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bl.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bm.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bn.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bo.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bq.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bq.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\br.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\br.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bs.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bs.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bt.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bv.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bw.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\by.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\by.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\bz.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ca.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ca.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cc.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cd.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cd.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cf.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cg.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ch.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ch.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ci.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ci.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ck.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ck.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cl.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cm.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cn.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\co.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\co.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cr.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cu.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cv.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cw.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cx.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cx.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cy.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cy.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\cz.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\de.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\de.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\dj.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\dj.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\dk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\dk.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\dm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\dm.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\do.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\do.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\dz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\dz.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ec.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ec.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ee.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ee.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\eg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\eg.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\eh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\eh.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\er.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\er.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\es.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\es.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\et.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\et.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\fi.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\fi.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\fj.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\fj.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\fk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\fk.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\fm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\fm.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\fo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\fo.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\fr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\fr.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ga.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ga.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gb.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gb.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gd.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gd.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ge.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ge.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gf.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gg.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gh.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gi.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gi.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gl.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gm.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gn.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gp.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gp.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gq.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gq.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gr.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gs.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gs.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gt.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gu.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gw.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gy.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\gy.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\hk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\hk.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\hm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\hm.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\hn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\hn.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\hr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\hr.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ht.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ht.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\hu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\hu.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\id.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\id.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ie.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ie.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\il.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\il.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\im.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\im.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\in.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\in.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\io.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\io.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\iq.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\iq.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ir.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ir.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\is.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\is.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\it.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\it.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\je.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\je.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\jm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\jm.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\jo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\jo.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\jp.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\jp.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ke.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ke.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\kg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\kg.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\kh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\kh.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ki.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ki.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\km.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\km.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\kn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\kn.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\kp.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\kp.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\kr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\kr.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\kw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\kw.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ky.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ky.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\kz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\kz.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\la.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\la.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\lb.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\lb.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\lc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\lc.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\li.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\li.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\lk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\lk.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\lr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\lr.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ls.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ls.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\lt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\lt.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\lu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\lu.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\lv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\lv.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ly.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ly.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ma.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ma.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mc.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\md.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\md.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\me.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\me.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mf.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mg.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mh.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mk.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ml.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ml.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mm.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mn.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mo.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mp.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mp.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mq.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mq.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mr.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ms.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ms.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mt.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mu.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mv.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mw.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mx.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mx.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\my.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\my.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\mz.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\na.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\na.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\nc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\nc.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ne.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ne.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\nf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\nf.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ng.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ng.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ni.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ni.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\nl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\nl.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\no.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\no.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\np.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\np.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\nr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\nr.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\nu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\nu.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\nz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\nz.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\om.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\om.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pa.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pa.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pe.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pe.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pf.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pg.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ph.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ph.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pk.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pl.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pm.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pn.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pr.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ps.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ps.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pt.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\pw.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\py.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\py.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\qa.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\qa.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\re.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\re.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ro.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ro.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\rs.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\rs.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ru.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ru.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\rw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\rw.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sa.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sa.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sb.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sb.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sc.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sd.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sd.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\se.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\se.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sg.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sh.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\si.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\si.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sj.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sj.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sk.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sl.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sm.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sn.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\so.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\so.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sr.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ss.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ss.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\st.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\st.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sv.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sx.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sx.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sy.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sy.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\sz.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tc.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\td.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\td.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tf.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tg.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\th.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\th.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tj.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tj.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tk.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tl.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tm.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tn.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\to.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\to.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tr.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tt.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tv.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tw.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\tz.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ua.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ua.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ug.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ug.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\um.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\um.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\us.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\us.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\uy.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\uy.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\uz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\uz.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\va.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\va.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\vc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\vc.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ve.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ve.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\vg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\vg.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\vi.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\vi.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\vn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\vn.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\vu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\vu.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\wf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\wf.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ws.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ws.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ye.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\ye.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\yt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\yt.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\za.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\za.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\zm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\zm.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\zw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\flag-icon-css\\flags\\zw.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-brands-400.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-brands-400.html"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-regular-400.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-regular-400.html"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-solid-900.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-solid-900.html"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\fontawesome\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\material-design-iconic-font\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\material-design-iconic-font\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\material-design-iconic-font\\fonts\\materialdesignicons-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\material-design-iconic-font\\fonts\\materialdesignicons-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.eot"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.html"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.ttf"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.woff"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\simple-line-icons\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\simple-line-icons\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.eot"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.html"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.ttf"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.woff"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\simple-line-icons\\fonts\\Simple-Line-Iconsd41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\simple-line-icons\\fonts\\Simple-Line-Iconsd41d.eot"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\themify-icons\\fonts\\themify9f24.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\themify-icons\\fonts\\themify9f24.eot"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\themify-icons\\fonts\\themify9f24.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\themify-icons\\fonts\\themify9f24.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\themify-icons\\fonts\\themifyd41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\themify-icons\\fonts\\themifyd41d.eot"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\weather-icons\\css\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\weather-icons\\css\\weather-icons.min.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\fonts\\weather-icons\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\fonts\\weather-icons\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\full-calendar\\css\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\full-calendar\\css\\fullcalendar.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\full-calendar\\css\\fullcalendar.print.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\full-calendar\\css\\fullcalendar.print.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\full-calendar\\js\\calendar.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\full-calendar\\js\\calendar.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\full-calendar\\js\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\full-calendar\\js\\fullcalendar.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\full-calendar\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\full-calendar\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\full-calendar\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\full-calendar\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\gauge\\gauge.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\gauge\\gauge.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\gauge\\gauge.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\gauge\\gauge.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\inputmask\\css\\inputmask.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\inputmask\\css\\inputmask.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\inputmask\\js\\jquery.inputmask.bundle.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\inputmask\\js\\jquery.inputmask.bundle.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\jquery\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\jquery\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\jvectormap\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\jvectormap\\jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\jvectormap\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\jvectormap\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\jvectormap\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\jvectormap\\jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\jvectormap\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\jvectormap\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\jvectormap\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\jvectormap\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\jvectormap\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\jvectormap\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\jvectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\jvectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\multi-select\\css\\multi-select.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\multi-select\\css\\multi-select.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\multi-select\\js\\jquery.multi-select.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\multi-select\\js\\jquery.multi-select.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\parsley\\parsley.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\parsley\\parsley.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\select2\\css\\select2.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\select2\\css\\select2.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\shortable-nestable\\Sortable.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\shortable-nestable\\Sortable.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\shortable-nestable\\jquery.nestable.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\shortable-nestable\\jquery.nestable.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\shortable-nestable\\sort-nest.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\shortable-nestable\\sort-nest.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\slimscroll\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\slimscroll\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\summernote\\css\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\summernote\\css\\font\\summernote.eot"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\summernote\\css\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\summernote\\css\\font\\summernote.ttf"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\summernote\\css\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\summernote\\css\\font\\summernote.woff"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\summernote\\css\\font\\summernote.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\summernote\\css\\font\\summernote.woff2"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\summernote\\css\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\summernote\\css\\summernote-bs4.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\summernote\\js\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\summernote\\js\\summernote-bs4.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\timeline\\img\\cd-icon-location.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\timeline\\img\\cd-icon-location.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\timeline\\img\\cd-icon-movie.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\timeline\\img\\cd-icon-movie.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\timeline\\img\\cd-icon-picture.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\timeline\\img\\cd-icon-picture.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\timeline\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\timeline\\js\\main.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Admin\\assets\\vendor\\vector-map\\jqvmap.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendor\\vector-map\\jqvmap.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\DetailPage\\DetailPage.css",
+      "PackagePath": "staticwebassets\\DetailPage\\DetailPage.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\DetailPage\\DetailPage.js",
+      "PackagePath": "staticwebassets\\DetailPage\\DetailPage.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\css\\about.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\css\\about.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\css\\banner.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\css\\banner.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\css\\careers.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\css\\careers.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\css\\carousel.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\css\\carousel.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\css\\cartPage.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\css\\cartPage.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\css\\cartPage1.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\css\\cartPage1.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\css\\cartPage2.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\css\\cartPage2.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\css\\cartPage3.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\css\\cartPage3.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\css\\index.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\css\\index.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\css\\index1.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\css\\index1.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\css\\kfcmenu.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\css\\kfcmenu.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\css\\login.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\css\\logout.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\css\\logout.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\css\\progress-bar.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\css\\progress-bar.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\css\\slider.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\css\\slider.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\css\\slider1.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\css\\slider1.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Index\\assets\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\img\\banner1.jpg",
+      "PackagePath": "staticwebassets\\Index\\assets\\img\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\img\\banner2.jpg",
+      "PackagePath": "staticwebassets\\Index\\assets\\img\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\img\\bucket.png",
+      "PackagePath": "staticwebassets\\Index\\assets\\img\\bucket.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\img\\download.png",
+      "PackagePath": "staticwebassets\\Index\\assets\\img\\download.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\img\\gola.png",
+      "PackagePath": "staticwebassets\\Index\\assets\\img\\gola.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\img\\kfc-logo-white.png",
+      "PackagePath": "staticwebassets\\Index\\assets\\img\\kfc-logo-white.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\img\\videoBanner.png",
+      "PackagePath": "staticwebassets\\Index\\assets\\img\\videoBanner.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\js\\carousel.js",
+      "PackagePath": "staticwebassets\\Index\\assets\\js\\carousel.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\js\\index.js",
+      "PackagePath": "staticwebassets\\Index\\assets\\js\\index.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\js\\kfcmenu.js",
+      "PackagePath": "staticwebassets\\Index\\assets\\js\\kfcmenu.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\js\\login.js",
+      "PackagePath": "staticwebassets\\Index\\assets\\js\\login.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\js\\logout.js",
+      "PackagePath": "staticwebassets\\Index\\assets\\js\\logout.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\js\\progress-bar.js",
+      "PackagePath": "staticwebassets\\Index\\assets\\js\\progress-bar.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\js\\slider.js",
+      "PackagePath": "staticwebassets\\Index\\assets\\js\\slider.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\assets\\video\\bg.mp4",
+      "PackagePath": "staticwebassets\\Index\\assets\\video\\bg.mp4"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\1gahoangkim.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\1gahoangkim.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\2gahoangkim.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\2gahoangkim.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\3gahoangkim.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\3gahoangkim.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\6gahoangkim.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\6gahoangkim.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\7Up-Can.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\7Up-Can.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\Aquafina-500ml.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\Aquafina-500ml.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\COM.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\COM.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\COMBO 1 NGUOI.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\COMBO 1 NGUOI.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\COMBO NHOM.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\COMBO NHOM.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\GA.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\GA.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\Lipton.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\Lipton.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\MON AN NHE.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\MON AN NHE.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\Mon1.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\Mon1.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\Mon2.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\Mon2.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\Peach-Tea.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\Peach-Tea.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\Pepsi-Can.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\Pepsi-Can.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\TRANG MIENG.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\TRANG MIENG.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\bannerAPPjpg.png",
+      "PackagePath": "staticwebassets\\Index\\img\\bannerAPPjpg.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\bannerCH.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\bannerCH.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\bannerfooter.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\bannerfooter.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\buger.png",
+      "PackagePath": "staticwebassets\\Index\\img\\buger.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\drink.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\drink.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\foodyLogo.png",
+      "PackagePath": "staticwebassets\\Index\\img\\foodyLogo.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\garan.png",
+      "PackagePath": "staticwebassets\\Index\\img\\garan.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\milo-box-hd.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\milo-box-hd.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\offer1.webp",
+      "PackagePath": "staticwebassets\\Index\\img\\offer1.webp"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\offer2.webp",
+      "PackagePath": "staticwebassets\\Index\\img\\offer2.webp"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\offer3.png",
+      "PackagePath": "staticwebassets\\Index\\img\\offer3.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\offer4.png",
+      "PackagePath": "staticwebassets\\Index\\img\\offer4.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\pepsi-lime-can.jpg",
+      "PackagePath": "staticwebassets\\Index\\img\\pepsi-lime-can.jpg"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\phimAkko.webp",
+      "PackagePath": "staticwebassets\\Index\\img\\phimAkko.webp"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\pizza.png",
+      "PackagePath": "staticwebassets\\Index\\img\\pizza.png"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\slider1.webp",
+      "PackagePath": "staticwebassets\\Index\\img\\slider1.webp"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\slider2.webp",
+      "PackagePath": "staticwebassets\\Index\\img\\slider2.webp"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\slider3.webp",
+      "PackagePath": "staticwebassets\\Index\\img\\slider3.webp"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\Index\\img\\slider4.webp",
+      "PackagePath": "staticwebassets\\Index\\img\\slider4.webp"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Project_KFoodSan_PTW_Temp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Project_KFoodSan_PTW_Temp.props",
+      "PackagePath": "build\\Project_KFoodSan_PTW_Temp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Project_KFoodSan_PTW_Temp.props",
+      "PackagePath": "buildMultiTargeting\\Project_KFoodSan_PTW_Temp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Project_KFoodSan_PTW_Temp.props",
+      "PackagePath": "buildTransitive\\Project_KFoodSan_PTW_Temp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

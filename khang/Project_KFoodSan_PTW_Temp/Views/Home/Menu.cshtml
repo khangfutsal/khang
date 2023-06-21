@@ -1,0 +1,64 @@
+﻿@model List<Project_KFoodSan_PTW_Temp.Models.Category>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/Index/assets/css/index.css" />
+    <link rel="stylesheet" href="~/Index/assets/css/kfcmenu.css" />
+    <link rel="stylesheet" href="~/Index/assets/font-awesome-4.7.0/css/font-awesome.min.css" />
+    <title>KFC MENU</title>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Add Nav Bar Detail  -->
+
+        <div id="containermenu" class="containermenu">
+            <div id="menu" class="snap">
+                <h1 class="remove">KFC MENU</h1>
+
+                @foreach (var categories in Model)
+                {
+                    <a href="#@categories.CategoryName">
+                        <li onclick="changeActive()" class="btn">@categories.CategoryName</li>
+                    </a>
+                }
+
+
+            </div>
+            <div class="prdtcontainer">
+                @foreach (var categories in Model)
+                {
+                    <div id="@categories.CategoryName" class="heading">
+                        <h1>@categories.CategoryName</h1>
+                    </div>
+                    <div id="bbproducts" class="products">
+                        @foreach (var foods in categories.Foods)
+                        {
+
+                            <!-- Biryani Buckets Products Append here -->
+                            <div class="card">
+                                <div class="imgdiv">
+                                    <img src="~/Index/img/@foods.Image" class="img">
+                                </div>
+                                <div class="contentdiv">
+                                    <h3 class="name">@foods.Name</h3>
+                                    <h3 class="price">₹@foods.Price</h3>
+                                    <p class="desc">@foods.Description</p>
+                                </div>
+                                @Html.ActionLink("Add To Cart","AddToCart","Cart",new {id = foods.Id,viewName ="Menu"},new {@class="addCartbtn"})
+                            </div>
+
+                        }
+                    </div>
+                }
+            </div>
+        </div>
+</body>
+
+</html>
+@*<script src="~/Index/assets/js/index.js" type="text/javascript"></script>*@
+<script src="~/Index/assets/js/kfcmenu.js" type="text/javascript"></script>

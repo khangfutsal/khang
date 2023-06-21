@@ -1,0 +1,113 @@
+﻿@model List<Project_KFoodSan_PTW_Temp.Models.User>;
+<div class="dashboard-wrapper">
+    <div class="container-fluid  dashboard-content">
+        <!-- ============================================================== -->
+        <!-- pageheader -->
+        <!-- ============================================================== -->
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="page-header">
+                    <h2 class="pageheader-title">User Tables</h2>
+                    <p class="pageheader-text">Proin placerat ante duiullam scelerisque a velit ac porta, fusce sit amet vestibulum mi. Morbi lobortis pulvinar quam.</p>
+                    <div class="page-breadcrumb">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">Dashboard</a></li>
+                                <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">Tables</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">Data Tables</li>
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ============================================================== -->
+        <!-- end pageheader -->
+        <!-- ============================================================== -->
+        <div class="row">
+            <!-- ============================================================== -->
+            <!-- basic table  -->
+            <!-- ============================================================== -->
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="card">
+                    <h5 class="card-header">Basic Table</h5>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <div id="DataTables_Table_0_wrapper" class="dataTables_wrapper dt-bootstrap4">
+                                <div class="row">
+                                    <div class="col-sm-12 col-md-6">
+                                        <div class="dataTables_length" id="DataTables_Table_0_length">
+                                        </div>
+                                    </div><div class="col-sm-12 col-md-6">
+                                        <div id="DataTables_Table_0_filter" class="dataTables_filter">
+                                        </div>
+                                    </div>
+                                </div><div class="row">
+                                    <div class="col-sm-12">
+                                        <table class="table table-striped table-bordered first dataTable" id="DataTables_Table_0" role="grid" aria-describedby="DataTables_Table_0_info">
+                                            <thead>
+                                                <tr role="row">
+                                                    <th class="sorting_asc" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" aria-sort="ascending" aria-label="ID: activate to sort column descending" style="width: 50.337px;">ID</th>
+                                                    <th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" aria-label="CategoryName: activate to sort column ascending" style="width: 124.088px;">FirstName</th>
+                                                    <th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" aria-label="MODE: activate to sort column ascending" style="width: 124.088px;">LastName</th>
+                                                    <th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" aria-label="MODE: activate to sort column ascending" style="width: 124.088px;">Username</th>
+                                                    <th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" aria-label="MODE: activate to sort column ascending" style="width: 124.088px;">Password</th>
+                                                    <th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" aria-label="MODE: activate to sort column ascending" style="width: 124.088px;">Phone</th>
+                                                    <th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" aria-label="MODE: activate to sort column ascending" style="width: 124.088px;">Email</th>
+                                                    <th class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" aria-label="MODE: activate to sort column ascending" style="width: 124.088px;">MODE</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                 @foreach(var item in Model)
+                                                {
+                                                <tr role="row" class="odd">
+                                                    <td class="sorting_1">@item.Id</td>
+                                                    <td>@item.FirstName</td>
+                                                    <td>@item.LastName</td>
+                                                    <td>@item.Username</td>
+                                                    <td>@item.Password</td>
+                                                    <td>@item.Phone</td>
+                                                    <td>@item.Email</td>
+                                                    <td>
+                                                        <a asp-action="EditAll" asp-route-id="@item.Id" asp-route-viewName= "ViewAllUser">Edit</a> |
+                                                        <a asp-action="DeleteFood" asp-route-id="@item.Id">Delete</a>
+                                                    </td>
+                                                </tr>
+                                                }
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div><div class="row"><div class="col-sm-12 col-md-5"><div class="dataTables_info" id="DataTables_Table_0_info" role="status" aria-live="polite">Showing 1 to 10 of 57 entries</div></div><div class="col-sm-12 col-md-7"><div class="dataTables_paginate paging_simple_numbers" id="DataTables_Table_0_paginate"><ul class="pagination"><li class="paginate_button page-item previous disabled" id="DataTables_Table_0_previous"><a href="#" aria-controls="DataTables_Table_0" data-dt-idx="0" tabindex="0" class="page-link">Previous</a></li><li class="paginate_button page-item active"><a href="#" aria-controls="DataTables_Table_0" data-dt-idx="1" tabindex="0" class="page-link">1</a></li><li class="paginate_button page-item "><a href="#" aria-controls="DataTables_Table_0" data-dt-idx="2" tabindex="0" class="page-link">2</a></li><li class="paginate_button page-item "><a href="#" aria-controls="DataTables_Table_0" data-dt-idx="3" tabindex="0" class="page-link">3</a></li><li class="paginate_button page-item "><a href="#" aria-controls="DataTables_Table_0" data-dt-idx="4" tabindex="0" class="page-link">4</a></li><li class="paginate_button page-item "><a href="#" aria-controls="DataTables_Table_0" data-dt-idx="5" tabindex="0" class="page-link">5</a></li><li class="paginate_button page-item "><a href="#" aria-controls="DataTables_Table_0" data-dt-idx="6" tabindex="0" class="page-link">6</a></li><li class="paginate_button page-item next" id="DataTables_Table_0_next"><a href="#" aria-controls="DataTables_Table_0" data-dt-idx="7" tabindex="0" class="page-link">Next</a></li></ul></div></div></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- ============================================================== -->
+            <!-- end basic table  -->
+            <!-- ============================================================== -->
+        </div>
+    </div>
+    <!-- ============================================================== -->
+    <!-- footer -->
+    <!-- ============================================================== -->
+    <div class="footer">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                    Copyright © 2018 Concept. All rights reserved. Dashboard by <a href="https://colorlib.com/wp/">Colorlib</a>.
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                    <div class="text-md-right footer-links d-none d-sm-block">
+                        <a href="javascript: void(0);">About</a>
+                        <a href="javascript: void(0);">Support</a>
+                        <a href="javascript: void(0);">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ============================================================== -->
+    <!-- end footer -->
+    <!-- ============================================================== -->
+</div>

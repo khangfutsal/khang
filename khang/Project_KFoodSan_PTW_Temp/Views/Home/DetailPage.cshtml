@@ -1,0 +1,72 @@
+﻿@model Project_KFoodSan_PTW_Temp.Models.Food;
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cart Page</title>
+
+</head>
+
+<body>
+    <link rel="stylesheet" href="~/DetailPage/DetailPage.css" />
+    @*<script type="module" src="~/scripts/DetailPage.js"></script>*@
+    <div class="card-wrapper">
+        <div class="card">
+            <!-- card left -->
+            <div class="product-imgs">
+                <div class="img-select">
+                    <div class="img-item">
+                        <a href="#">
+                            <img src="~/img/@Model.Image"
+                                 alt="shoe image">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <!-- card right -->
+            <div class="product-content">
+                <h2 class="product-title">@Model.Name</h2>
+                @*<a href="#" class="product-link">visit nike store</a>*@
+                <div class="product-rating">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                    <span>4.7(21)</span>
+                </div>
+
+                <div class="product-price">
+                    @*                    <p class="last-price">Old Price: <span>$257.00</span></p>*@
+                    <p class="new-price">Price: <span>$@Model.Price</span></p>
+                </div>
+
+                <div class="product-detail">
+                    <h2>Mô tả </h2>
+                    <p>
+                        @Model.Description
+                    </p>
+
+
+                </div>
+
+                <div class="purchase-info">
+                    <input type="number" min="0" value="1">
+                    <button type="button" class="btn" style="margin-top:10px;">
+                        Add to Cart <i class="fas fa-shopping-cart"></i>
+                    </button>
+
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+
+</body>
+
+</html>

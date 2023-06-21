@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Project_KFoodSan_PTW_Temp.props" />
+</Project>

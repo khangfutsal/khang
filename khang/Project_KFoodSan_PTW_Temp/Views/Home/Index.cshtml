@@ -1,0 +1,184 @@
+﻿@model List<Project_KFoodSan_PTW_Temp.Models.Category>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<body>
+    <div class="img-slider">
+        <div class="slide active">
+            <img src="~/Index/assets/img/banner1.jpg" alt="" />
+            <div class="info">
+                <h2>CELEBRATE MOM WITH FRIED CHICKEN</h2>
+                <p>
+                    Treat mom to a finger lickin’ good Mothers’ Day with her favorites
+                    at KFC.
+                </p>
+            </div>
+        </div>
+        <div class="slide">
+            <img src="~/Index/assets/img/banner2.jpg" alt="" />
+            <div class="info">
+                <h2>CELEBRATE MOM WITH FRIED CHICKEN</h2>
+                <p>
+                    Treat mom to a finger lickin’ good Mothers’ Day with her favorites
+                    at KFC.
+                </p>
+            </div>
+        </div>
+        <div class="navigation">
+            <div class="slide-btn active"></div>
+            <div class="slide-btn"></div>
+        </div>
+    </div>
+    <!-- red stripe -->
+    <div class="red-stripe">
+        <h1>Finger Lickin' Good® is Now Just a Few Clicks Away</h1>
+        <a class="str-ordr-btn" asp-action ="Menu" asp-controller="Home"> <span>Start Order</span></a>
+    </div>
+
+    <!-- featured items -->
+    <div class="features-title-box">
+        <div class="features-title">
+            <h1></h1>
+        </div>
+    </div>
+    <!-- progress bar section -->
+    <div class="progress-section">
+        <div class="progress-bar-wrap">
+            <div class="progress-bar"></div>
+        </div>
+        <!-- <div class="progress-num"></div> -->
+    </div>
+
+    <!-- banner -->
+    <div class="banner">
+        <video autoplay muted loop id="myVideo">
+            <source src="~/Index/assets/video/bg.mp4" type="video/mp4" />
+            Your browser does not support HTML5 video.
+        </video>
+
+        <div class="banner-content">
+            <div>
+                <img src="https://images.ctfassets.net/9tka4b3550oc/6S3xJA6TQLP7vuh1C01QTe/df1849db52120e7f87ccf449242e06a2/Fries_Product_Card.png?q=75&w=640"
+                     alt="img" />
+            </div>
+            <div>
+                <h1>YEP. WE HAVE FRIES NOW</h1>
+                @*<a asp-action="Menu" asp-controller="Home">
+                    <button >Start Your Order</button>
+                </a>*@
+                
+                <a class="str-ordr-btn1" asp-action="Menu" asp-controller="Home"> <span>Start Order</span></a>
+
+                
+            </div>
+        </div>
+    </div>
+
+    <!-- Quick Bites -->
+    <div class="quick-title-box">
+        <div class="quick-title">
+            <h1></h1>
+        </div>
+    </div>
+
+
+    <!-- progress bar section -->
+    <div class="progress-section">
+        <div class="progress-bar-wrap">
+            <div class="progress-bar"></div>
+        </div>
+        <!-- <div class="progress-num"></div> -->
+    </div>
+
+    <!-- red banner -->
+    <div class="red-banner">
+        <div>
+            <figure>
+                <svg viewBox="0 0 42 20" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+                    <path class="strip-1" d="M0 0h8v20H0z"></path>
+                    <path class="strip-2" d="M16 0h8v20h-8z"></path>
+                    <path class="strip-3" d="M32 0h8v20h-8z"></path>
+                </svg>
+            </figure>
+        </div>
+        <div>
+            <h3>our food</h3>
+            <h1>We make it</h1>
+            <h1>Hard way</h1>
+            <p>See what goes into making our world famous fried chicken.</p>
+        </div>
+        <div>
+            <div>
+                <img src="~/Index/assets/img/gola.png" alt="" />
+            </div>
+            <div>
+                <img src="~/Index/assets/img/bucket.png" alt="" />
+            </div>
+        </div>
+    </div>
+
+    <!-- white banner -->
+    <div class="white-banner">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+    </div>
+    <footer>
+        <div>
+            <div class="logo">
+                <img src="https://sage-dolphin-365e39.netlify.app/images/Screenshot%20(74).jpg"
+                     alt="" />
+            </div>
+            <div>
+                <h2>KFC Food</h2>
+                <ul>
+                    <li>Menu</li>
+                    <li>Full Nutrition Guide</li>
+                    <li>Nutrition Calculator</li>
+                    <li>Food Allergies & Sensitivities</li>
+                </ul>
+            </div>
+            <div>
+                <h2>Company</h2>
+                <ul>
+                    <li>About KFC</li>
+                    <li>How We Make Chicken</li>
+                    <li>KFC Foundation</li>
+                    <li>Company Responsibility</li>
+                    <li>Frenchise a KFC</li>
+                    <li>Responsible Disclosure</li>
+                    <li>KFC Newsroom</li>
+                </ul>
+            </div>
+            <div>
+                <h2>Careers</h2>
+                <ul>
+                    <li>Restaurant Careers</li>
+                    <li>Corporate Careers</li>
+                    <li>Culture</li>
+                    <li>Growth</li>
+                </ul>
+            </div>
+            <div>
+                <h2>Resources</h2>
+                <ul>
+                    <li>FAQs</li>
+                    <li>Contact Us</li>
+                    <li>KFC App</li>
+                </ul>
+            </div>
+            <div>
+                <h2>Find a KFC</h2>
+                <ul>
+                    <li>Find A KFC</li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>
