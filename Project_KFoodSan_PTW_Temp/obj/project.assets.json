@@ -10517,11 +10517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\phat trien web\\Project_KFoodSan_PTW_Temp\\Project_KFoodSan_PTW_Temp\\Project_KFoodSan_PTW_Temp.csproj",
+      "projectUniqueName": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\Project_KFoodSan_PTW_Temp.csproj",
       "projectName": "Project_KFoodSan_PTW_Temp",
-      "projectPath": "D:\\phat trien web\\Project_KFoodSan_PTW_Temp\\Project_KFoodSan_PTW_Temp\\Project_KFoodSan_PTW_Temp.csproj",
+      "projectPath": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\Project_KFoodSan_PTW_Temp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\phat trien web\\Project_KFoodSan_PTW_Temp\\Project_KFoodSan_PTW_Temp\\obj\\",
+      "outputPath": "D:\\phat trien web\\ptw_khang\\khang\\Project_KFoodSan_PTW_Temp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

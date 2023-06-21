@@ -15,9 +15,13 @@ public partial class OrderBook
 
     public int? Status { get; set; }
 
-    public string? Num { get; set; }
-
     public int? UserId { get; set; }
+
+    public int? CountryId { get; set; }
+
+    public string? Address { get; set; }
+
+    public virtual Country? Country { get; set; }
 
     public virtual ICollection<OrderDetail> OrderDetails { get; set; } = new List<OrderDetail>();
 

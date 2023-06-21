@@ -14,6 +14,8 @@ builder.Services.AddTransient<ICategoryReposistory, CategoryReposistory>();
 builder.Services.AddTransient<IUserReposistory, UserReposistory>();
 builder.Services.AddTransient<IFoodReposistory, FoodReposistory>();
 builder.Services.AddTransient<IRoleReposistory, RoleReposistory>();
+builder.Services.AddTransient<IOrderBookReposistory, OrderBookReposistory>();
+builder.Services.AddTransient<ICountryReposistory, CountryReposistory>();
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
 builder.Services.AddSession();
